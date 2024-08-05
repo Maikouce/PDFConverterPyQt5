@@ -21,7 +21,21 @@
 
 ### PDF to Word
 - Supports batch conversion of PDF files to DOCX Word format.
+Installation
+Clone the repository:
 
+bash
+git clone https://github.com/yourusername/MCFileConverter.git
+cd MCFileConverter
+Create and activate a virtual environment (optional):
+
+bash
+python -m venv env
+source env/bin/activate  # On Windows, use `env\Scripts\activate`
+Install dependencies:
+
+bash
+pip install -r requirements.txt
 
 
 
