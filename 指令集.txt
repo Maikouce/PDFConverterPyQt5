@@ -1,0 +1,1 @@
+ pyinstaller --onefile --icon=icon.ico --hidden-import=docx2pdf --hidden-import=tqdm --hidden-import=pywin32 main.py
